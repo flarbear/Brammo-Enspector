@@ -1,0 +1,16 @@
+/* 
+ * Copyright 2013, Jim Graham, Flarbear Widgets
+ * @author Flar
+ */
+
+.table-view {
+    -fx-font-family: monospace;
+}
+.table-view .column-header {
+    -fx-font-family: serif;
+}
+
+root { 
+    display: block;
+}
+
